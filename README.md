@@ -1,3 +1,5 @@
+The repository contains codes for Standard Minimax, Alpha Beta Pruning Minimax Algorithms and Comparsion for the best moves of both algorithms.
+
 **Standard Minimax**
 The Standard Minimax algorithm is a decision-making process used to find the optimal move by exploring all possible future game states. It assumes both players play optimally. In games like Tic-Tac-Toe, the algorithm evaluates all potential moves and selects the one that maximizes the player's chances of winning. However, it can be slow for larger game trees since it checks every possible move.
 
