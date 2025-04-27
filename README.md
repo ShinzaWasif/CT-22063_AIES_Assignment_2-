@@ -12,3 +12,5 @@ Execution Time: How fast each algorithm reaches a decision
 Nodes Visited: How many possible game states (nodes) each algorithm evaluated
 
 By running both algorithms under identical conditions, the comparison highlights the efficiency gain offered by Alpha-Beta Pruning.
+
+**By Syeda Shinza Wasif (CT-22063)**
